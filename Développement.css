@@ -1,0 +1,19 @@
+body {
+    background-image: url(./Image/Obscure\ City\ Sky.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: rgb(239, 197, 128);
+    font-size: larger;
+}
+h3{
+    text-align: center;
+    font-size: xx-large;
+    color: aliceblue;
+}
+img{
+    display: block;
+    margin: auto;
+}
